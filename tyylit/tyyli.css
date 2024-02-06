@@ -1,0 +1,14 @@
+div {
+    margin-top: 2em;
+}
+label {
+    margin-right: 2em;
+    width: 100px;
+    display: inline-block;
+}
+input {
+    margin-left: 1em;
+}
+output {
+    padding: 5px;
+}
